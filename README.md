@@ -1,2 +1,2 @@
 # Tabela Champions
- Aprendendo tabelas com a tabela da **Champions Legue**
+ Aprendendo tabelas com a **Liga dos campeões da UEFA**
