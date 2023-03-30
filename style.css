@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: rgb(240 , 240, 240);
+}
+header{
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    background-color: #162E58;
+    color: white;
+    
+}
+header h1{
+    padding: 20px 40px;
+    font-size: 16px;
+    font-weight: normal;
+}
+header h2{
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 10px;
+}
+.grupos{
+    padding-top: 100px;
+}
+
+.grupos, .estatisticas{
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+}
+section h3{
+    font-size: 24px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+tr, td, table{
+    border-top: 0.5px solid  #70757a;
+    border-collapse: collapse;
+    /* padding: 0 10px; */
+    padding-top: 10px;
+}
+th{
+    color: #70757a;
+    font-weight: normal;
+    
+}
+table{
+   width: 100%;
+   
+    /* padding: 0; */
+    text-align: center;
+}
+.img-clube{
+    width: 24px;
+    height: 24px;
+}
+.estatisticas h2{
+    color: white;
+    background-color: #162E58;
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px;
+}
+.jogador{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+h4{
+    padding: 12px 0;
+    margin: 0;
+}
