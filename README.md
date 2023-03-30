@@ -1,2 +1,9 @@
 # Tabela Champions
- Aprendendo tabelas com a tabela da Champions Legue
+
+ * Aprendendo tabelas com a **Liga dos campeões da UEFA**
+ * Vinculando um arquivo CSS externo.
+ * Estilizando tabelas.
+ * Inserindo imagens em células.
+ * Formatando conteúdo
+ 
+ 
