@@ -15,6 +15,8 @@ header{
     width: 100%;
     background-color: #162E58;
     color: white;
+    z-index: 999;
+    top: 0;
     
 }
 header h1{
@@ -32,6 +34,7 @@ header h2{
     padding-top: 100px;
 }
 
+
 .grupos, .estatisticas{
     width: 50%;
     margin: 0 auto;
@@ -43,22 +46,20 @@ section h3{
     padding-top: 20px;
 }
 
-tr, td, table{
+th, td{
     border-top: 0.5px solid  #70757a;
-    border-collapse: collapse;
-    /* padding: 0 10px; */
-    padding-top: 10px;
+    padding: 5px;
 }
 th{
     color: #70757a;
     font-weight: normal;
-    
+    border-top: none;
+ 
 }
 table{
    width: 100%;
-   
-    /* padding: 0; */
-    text-align: center;
+   text-align: center;
+   border-collapse: collapse;
 }
 .img-clube{
     width: 24px;
