@@ -45,7 +45,11 @@ section h3{
     padding-bottom: 20px;
     padding-top: 20px;
 }
-
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
 th, td{
     border-top: 0.5px solid  #70757a;
     padding: 5px;
@@ -54,13 +58,8 @@ th{
     color: #70757a;
     font-weight: normal;
     border-top: none;
- 
 }
-table{
-   width: 100%;
-   text-align: center;
-   border-collapse: collapse;
-}
+
 .img-clube{
     width: 24px;
     height: 24px;
@@ -81,4 +80,10 @@ table{
 h4{
     padding: 12px 0;
     margin: 0;
+}
+.bl-blue{
+    border-left: 3px solid  #4285F4;
+}
+.bl-orange{
+    border-left: #FA7B17 3px solid;
 }
