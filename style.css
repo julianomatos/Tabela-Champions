@@ -6,6 +6,9 @@
 body{
     background: rgb(240 , 240, 240);
 }
+.left{
+    text-align: left;
+}
 header{
     height: 100px;
     position: fixed;
